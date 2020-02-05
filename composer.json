@@ -20,7 +20,7 @@
     "prefer-stable": true,
     "require": {
         "dnadesign/silverstripe-elemental": "^4.0@dev",
-        "giangvt/silverstripe-userforms": "master",
+        "giangvt/silverstripe-userforms": "^5.0",
         "silverstripe/vendor-plugin": "^1.0"
     },
     "require-dev": {
